@@ -26,28 +26,28 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ElvisArimatea&show_icons=true" />
   </picture>
 
-  <!--api/top-langs?username=anuraghazra-->
-
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisArimatea&layout=compact&theme=tokyonight"/>
 </div>
 
+<br>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> 
-  <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"> 
+
+<div style="display: inline_block">
+  <div>
+    <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> 
+    <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"> 
+    <img align="center" alt="Selenium" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
+    <img align="center" alt="SQL" height="40" width="40" src="https://cdn3.iconfinder.com/data/icons/file-extension-11/512/sql-file-extension-format-digital-512.png">
+    <img align="center" alt="Excel" height="35" width="30" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-512.png">
+    <img align="center" alt="Arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg"> 
+    <img align="right" alt="Elvis-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1073672292585971772/1088577702585438309/Eu-cartoon.jpg">
+    
+    
+  </div>  
   
-  <img align="center" alt="Selenium" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-  <img align="center" alt="SQL" height="40" width="40" src="https://cdn3.iconfinder.com/data/icons/file-extension-11/512/sql-file-extension-format-digital-512.png">
-  <img align="center" alt="Excel" height="35" width="30" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-512.png">
-  
-  ![transp](https://www.crmv.am.gov.br/wp-content/uploads/2018/07/Fundo-transparente-1900x1900-1-768x768.png)  
-  
-  
-  
-  <img align="center" alt="Arduino" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg">  
-  
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+
 </div>
+
 
 
 ##

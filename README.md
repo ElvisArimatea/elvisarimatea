@@ -1,27 +1,47 @@
-Olá, sou o Elvis e...
+<h2> Olá, sou o Elvis 🙂</h2>
 
-- 🌱 Hoje estou me aperfeiçoando em:
-  - 💻 QA:
-    - Testes manuais e principalmente automatizados;<br>
-    - Metodologia BDD;<br>
-    - Cucumber;<br>
-    - Selenium;<br>
-    - Unit;<br>
+ <div>
+    <img align="right" src="https://media.discordapp.net/attachments/1073672292585971772/1088577702585438309/Eu-cartoon.jpg" alt="Elvis-pic" width="200" style="border-radius:50px;">
+</div>
 
-  - 📊 Data Analyst/Scientist:
-    - Elaboro alguns projetos pessoais em analise de dados e IA;<br>
-    - Atualmente estou tirando a certificação "Profissional Google Data Analytics" (previsão em Maio/23)<br>
+  Trabalhei 1 ano e meio na AmbevTech na área de produtos digitais como Analista de dados e APM.<br>
+  Sou Engenheiro de Automação e em Dez/22 me formei em Analise de Desenvolvimento de Sistemas (ADS).<br>
+  Sou apaixonado por tecnologia e adoro estudar!
+
+
+<h4>🌱 Hoje estou me aperfeiçoando em:</h4>
+  <h5> 🔹 💻 QA:</h5>
+  ◽ Testes Manuais/Automatizados ◽ BDD ◽ Cucumber ◽ Selenium ◽ Unit.
+  
+<div style="display:flex;">
+        
+  <img align="right" style="margin-right: 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg" alt="Cucumber" width="40" height="40">
+  <img align="right" style="margin-right: 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="35" height="35">
+  <img align="right" style="margin-right: 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40">
+  <img align="right" style="margin-right: 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40">
+</div>
+
+<h5> 🔹 📊 Data Analyst/Scientist:</h5>
+<div>
+  <img align="right" style="margin-right: 0px" src="https://cdn3.iconfinder.com/data/icons/file-extension-11/512/sql-file-extension-format-digital-512.png" alt="SQL" width="40" height="40">  
+  <img align="right" style="margin-right: 0px" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-512.png" alt="Excel" width="30" height="32">
+  <img align="right" style="margin-right: 0px" src="https://cdn.discordapp.com/attachments/1073672292585971772/1091452020482920458/PBI_Icon.png" alt="PBI" width="35" height="35">
+  
+</div>
+    ◽ Elaboro alguns projetos pessoais em analise de dados e IA ( Python ◽ PBI ◽ SQL );<br>
+    ◽ Atualmente estou tirando a certificação "Profissional Google Data Analytics" ◽ Previsão em Maio/23;<br>
+    
+
+    
+
      
-- 💬 Pergunte-me sobre:  
-  - Lógicas de programação;
-  - Excel;
-  - Power BI;<br>
+<h4> 💬 Pergunte-me sobre: </h4>
+  ◽ Lógicas de programação ◽ Python ◽ Excel ◽ Power BI;<br>
     Ou sobre minha antiga área:<br>
-  - Automação Industrial (trabalhei quase 10 anos na área);
-  - Arduino e afins (10+ anos de experiência em projetos pessoais e academicos);
+  ◽ Automação Industrial (trabalhei quase 10 anos na área)<br>
+  ◽ Arduino e afins (10+ anos de experiência em projetos pessoais e academicos);<br>
 
-- ⚡ Fun fact: Sou Técnico e Engenheiro de Automação, mas não paro por aí! Em Dezembro de 2022 me formei em Análise e Desenvolvimento de Sistemas (ADS), mudando de carreira e buscando novas oportunidades.
-  - Amo estudar! E por isso pretendo fazer uma pós dentro de 2 anos.
+
 <!--
 <div>
   <picture>
@@ -36,27 +56,14 @@ Olá, sou o Elvis e...
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisArimatea&layout=compact&theme=tokyonight"/>
 </div>
-
-<div style="display: inline_block">
-  <div>
-    <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"> 
-    <img align="center" alt="Pandas" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"> 
-    <img align="center" alt="Selenium" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg">
-    <img align="center" alt="SQL" height="40" width="40" src="https://cdn3.iconfinder.com/data/icons/file-extension-11/512/sql-file-extension-format-digital-512.png">
-    <img align="center" alt="Excel" height="35" width="30" src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_excel-512.png">    
-    <img align="right" alt="Elvis-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/1073672292585971772/1088577702585438309/Eu-cartoon.jpg">
-    
-  </div>  
-</div>
-
+-->
 ##
 
-<div>   
-  <a href="https://www.linkedin.com/in/elvisarimatea/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+
+<div> 
+  <a href="https://www.linkedin.com/in/elvisarimatea/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
--->
 
 
 

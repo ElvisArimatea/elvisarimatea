@@ -10,16 +10,14 @@
 
 
 <h4>🌱 Hoje estou me aperfeiçoando em:</h4>
-  <h5> 🔹 💻 QA:</h5>
-  ◽ Testes Manuais/Automatizados ◽ BDD ◽ Cucumber ◽ Selenium ◽ Unit.
-  
-<div style="display:flex;">
-        
+  <h5> 🔹 💻 QA:</h5>  
+  <div style="display:flex;">        
   <img align="right" style="margin-right: 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain-wordmark.svg" alt="Cucumber" width="40" height="40">
   <img align="right" style="margin-right: 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="Selenium" width="35" height="35">
   <img align="right" style="margin-right: 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="40" height="40">
   <img align="right" style="margin-right: 0px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40">
-</div>
+</div>  
+  ◽ Testes Manuais/Automatizados ◽ BDD ◽ Cucumber ◽ Selenium ◽ Unit.
 
 <h5> 🔹 📊 Data Analyst/Scientist:</h5>
 <div>

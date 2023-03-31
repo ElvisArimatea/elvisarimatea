@@ -1,7 +1,7 @@
 <h2> Olá, sou o Elvis 🙂</h2>
 
  <div>
-    <img align="right" src="https://media.discordapp.net/attachments/1073672292585971772/1088577702585438309/Eu-cartoon.jpg" alt="Elvis-pic" width="200" style="border-radius:50px;">
+    <img align="right" src="https://cdn-learn.adafruit.com/guides/cropped_images/000/003/613/medium640/Fancy_Octocat_guide_image.png?1654629455" alt="Elvis-pic" width="225" style="border-radius: 30px;">
 </div>
 
   Trabalhei 1 ano e meio na AmbevTech na área de produtos digitais como Analista de dados e APM.<br>

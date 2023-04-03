@@ -1,4 +1,9 @@
-<h2> Olá, sou o Elvis 🙂</h2>
+<div> 
+ <a href="https://www.linkedin.com/in/elvisarimatea/">
+  <img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+ <h2> Olá, sou o Elvis 🙂</h2>
+</div>
+
 
  <div>
     <img align="right" src="https://cdn-learn.adafruit.com/guides/cropped_images/000/003/613/medium640/Fancy_Octocat_guide_image.png?1654629455" alt="Elvis-pic" width="225" style="border-radius: 30px;">
@@ -27,20 +32,18 @@
   
 </div>
     ◽ Elaboro alguns projetos pessoais em analise de dados e IA ( Python ◽ PBI ◽ SQL );<br>
-    ◽ Atualmente estou tirando a certificação "Profissional Google Data Analytics" ◽ Previsão em Maio/23;<br>
-    
+    ◽ Atualmente estou tirando a certificação "Profissional Google Data Analytics" ◽ Previsão em Maio/23;<br>   
 
-    
 
-     
 <h4> 💬 Pergunte-me sobre: </h4>
   ◽ Lógicas de programação ◽ Python ◽ Excel ◽ Power BI;<br>
     Ou sobre minha antiga área:<br>
   ◽ Automação Industrial (trabalhei quase 10 anos na área)<br>
   ◽ Arduino e afins (10+ anos de experiência em projetos pessoais e academicos);<br>
+  
+##
 
 
-<!--
 <div>
   <picture>
   <source 
@@ -54,13 +57,11 @@
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElvisArimatea&layout=compact&theme=tokyonight"/>
 </div>
--->
+
 ##
 
 
-<div> 
-  <a href="https://www.linkedin.com/in/elvisarimatea/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+
 
 
 

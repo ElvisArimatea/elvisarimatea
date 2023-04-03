@@ -1,7 +1,7 @@
 <div> 
  <a href="https://www.linkedin.com/in/elvisarimatea/">
   <img align="right" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
- <h2> Olá, sou o Elvis 🙂</h2>
+ <h2> Oi, eu sou o Elvis 😁</h2>
 </div>
 
 
